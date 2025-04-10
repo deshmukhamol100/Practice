@@ -1,7 +1,7 @@
 
 <a href="https://github.com/deshmukhamol100/Practice/blob/main/Scenerio-1.py">solution 1</a>
-# who are getting equal salary
-<H3> Input :-</H3>
+
+<H5> who are getting equal salary :-</H5>
 
 ![image](https://github.com/user-attachments/assets/4073a0ef-b061-460d-a994-775853175e98)
 
