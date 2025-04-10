@@ -1,5 +1,5 @@
-Scenerio-1
-<a href="https://github.com/deshmukhamol100/Practice/blob/main/Scenerio-1.py">Scenerio-1</a>
+
+<a href="https://github.com/deshmukhamol100/Practice/blob/main/Scenerio-1.py">solution 1</a>
 # who are getting equal salary
 <H3> Input :-</H3>
 
